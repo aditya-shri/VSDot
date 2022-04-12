@@ -20,3 +20,6 @@ source_file
 .local/share/code-server/User/caches/*
 .local/share/code-server/User/workspaceStorage/-3023ffb2/meta.json
 .local/share/code-server/User/workspaceStorage/-3023ffb2/vscode.lock
+.local/share/code-server/User/globalStorage/redhat.java/*
+.local/share/code-server/User/workspaceStorage/-3023ffb2/redhat.java/*
+.local/share/code-server/User/Backups/-3023ffb2/vscode-remote/1a66730f
