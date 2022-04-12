@@ -18,13 +18,13 @@ source_file
 .local/share/code-server/extensions/*
 .local/share/code-server/logs/*
 .local/share/code-server/User/caches/*
-.local/share/code-server/User/workspaceStorage/-3023ffb2/meta.json
-.local/share/code-server/User/workspaceStorage/-3023ffb2/vscode.lock
+.local/share/code-server/User/workspaceStorage/*/meta.json
+.local/share/code-server/User/workspaceStorage/*/vscode.lock
 .local/share/code-server/User/globalStorage/redhat.java/*
 .local/share/code-server/User/workspaceStorage/*/redhat.java/*
 .local/share/code-server/User/Backups/-3023ffb2/vscode-remote/1a66730f
 .m2/repository/*
-Java/demo/target/demo/WEB-INF/lib/*
+Java/*/WEB-INF/lib/*
 .local/share/code-server/User/workspaceStorage/*
 Java/demo/target/maven-status/*
 .viminfo
